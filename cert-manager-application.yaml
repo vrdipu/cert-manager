@@ -6,7 +6,7 @@ metadata:
 spec:
   project: default
   source:
-    repoURL: https://charts.jetstack.io
+    repoURL: https://github.com/vrdipu/cert-manager.git
     targetRevision: v1.5.4
     chart: cert-manager
     helm:
